@@ -4,8 +4,8 @@ A simple address book application to store and manage contact information
 
 ## Link
 
-- URL Deployment:
-- Repository:
+- URL Deployment: https://adddress-book.vercel.app/
+- Repository: https://github.com/rulujangk3du/Adddress-Book
 
 ## Features
 
